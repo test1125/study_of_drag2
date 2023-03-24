@@ -1,0 +1,9 @@
+.stalker {
+    list-style:none;
+    background-color: aqua;
+    width: 100px;    
+}
+.stalker:hover {
+    cursor: pointer;
+    background-color: rgb(0, 213, 213);
+}
